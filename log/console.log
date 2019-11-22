@@ -1,0 +1,63 @@
+2019-11-04 09:36:42.780 [error] <0.349.0> gen_server <0.349.0> terminated with reason: {socket_error,timeout}
+2019-11-04 09:36:42.801 [error] <0.350.0> gen_server <0.350.0> terminated with reason: {socket_error,timeout}
+2019-11-04 09:36:42.801 [error] <0.372.0> gen_server <0.372.0> terminated with reason: {socket_error,timeout}
+2019-11-04 09:36:42.801 [error] <0.337.0> gen_server <0.337.0> terminated with reason: {socket_error,timeout}
+2019-11-04 09:36:42.833 [error] <0.340.0> gen_server <0.340.0> terminated with reason: {socket_error,timeout}
+2019-11-04 09:36:42.833 [error] <0.368.0> gen_server <0.368.0> terminated with reason: {socket_error,timeout}
+2019-11-04 09:36:43.012 [error] <0.368.0> CRASH REPORT Process <0.368.0> with 0 neighbours exited with reason: {socket_error,timeout} in gen_server:handle_common_reply/8 line 751
+2019-11-04 09:36:43.013 [error] <0.337.0> CRASH REPORT Process <0.337.0> with 0 neighbours exited with reason: {socket_error,timeout} in gen_server:handle_common_reply/8 line 751
+2019-11-04 09:36:43.013 [error] <0.340.0> CRASH REPORT Process <0.340.0> with 0 neighbours exited with reason: {socket_error,timeout} in gen_server:handle_common_reply/8 line 751
+2019-11-04 09:36:43.015 [error] <0.338.0> Supervisor {<0.338.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.339.0>, {amqp_params_network,<<"guest">>,<<"guest">>,<<"/">>,"localhost",5672,0,0,10,50000,none,[fun amqp_a..>,...],...}) at <0.340.0> exit with reason {socket_error,timeout} in context child_terminated
+2019-11-04 09:36:43.015 [error] <0.338.0> Supervisor {<0.338.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.339.0>, {amqp_params_network,<<"guest">>,<<"guest">>,<<"/">>,"localhost",5672,0,0,10,50000,none,[fun amqp_a..>,...],...}) at <0.340.0> exit with reason reached_max_restart_intensity in context shutdown
+2019-11-04 09:36:43.016 [error] <0.366.0> Supervisor {<0.366.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.367.0>, {amqp_params_network,<<"guest">>,<<"guest">>,<<"/">>,"localhost",5672,0,0,10,50000,none,[fun amqp_a..>,...],...}) at <0.368.0> exit with reason {socket_error,timeout} in context child_terminated
+2019-11-04 09:36:43.017 [error] <0.366.0> Supervisor {<0.366.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.367.0>, {amqp_params_network,<<"guest">>,<<"guest">>,<<"/">>,"localhost",5672,0,0,10,50000,none,[fun amqp_a..>,...],...}) at <0.368.0> exit with reason reached_max_restart_intensity in context shutdown
+2019-11-04 09:36:43.017 [error] <0.332.0> Supervisor {<0.332.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.334.0>, {amqp_params_network,<<"guest">>,<<"guest">>,<<"/">>,"localhost",5672,0,0,10,50000,none,[fun amqp_a..>,...],...}) at <0.337.0> exit with reason {socket_error,timeout} in context child_terminated
+2019-11-04 09:36:43.018 [error] <0.332.0> Supervisor {<0.332.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.334.0>, {amqp_params_network,<<"guest">>,<<"guest">>,<<"/">>,"localhost",5672,0,0,10,50000,none,[fun amqp_a..>,...],...}) at <0.337.0> exit with reason reached_max_restart_intensity in context shutdown
+2019-11-04 11:06:32.688 [error] <0.572.0> gen_server <0.572.0> terminated with reason: {socket_error,timeout}
+2019-11-04 11:06:33.027 [warning] <0.236.0> lager_error_logger_h dropped 27 messages in the last second that exceeded the limit of 50 messages/sec
+2019-11-04 13:00:24.010 [error] <0.645.0> gen_server <0.645.0> terminated with reason: {socket_error,timeout}
+2019-11-04 13:00:24.161 [error] <0.645.0> CRASH REPORT Process <0.645.0> with 0 neighbours exited with reason: {socket_error,timeout} in gen_server:handle_common_reply/8 line 751
+2019-11-04 13:00:24.161 [error] <0.637.0> gen_server <0.637.0> terminated with reason: {socket_error,timeout}
+2019-11-04 13:00:24.413 [error] <0.636.0> Supervisor {<0.636.0>,amqp_connection_type_sup} had child main_reader started with amqp_main_reader:start_link(#Port<0.14>, <0.637.0>, <0.643.0>, {method,rabbit_framing_amqp_0_9_1}, <<"client 127.0.0.1:52176 -> 127.0.0.1:5672">>) at <0.645.0> exit with reason {socket_error,timeout} in context child_terminated
+2019-11-04 13:00:24.414 [error] <0.636.0> Supervisor {<0.636.0>,amqp_connection_type_sup} had child main_reader started with amqp_main_reader:start_link(#Port<0.14>, <0.637.0>, <0.643.0>, {method,rabbit_framing_amqp_0_9_1}, <<"client 127.0.0.1:52176 -> 127.0.0.1:5672">>) at <0.645.0> exit with reason reached_max_restart_intensity in context shutdown
+2019-11-04 13:00:24.414 [error] <0.637.0> CRASH REPORT Process <0.637.0> with 0 neighbours exited with reason: {socket_error,timeout} in gen_server:handle_common_reply/8 line 751
+2019-11-04 13:00:24.414 [error] <0.641.0> gen_server <0.641.0> terminated with reason: {socket_error,timeout}
+2019-11-04 13:00:24.414 [error] <0.641.0> CRASH REPORT Process <0.641.0> with 0 neighbours exited with reason: {socket_error,timeout} in gen_server:handle_common_reply/8 line 751
+2019-11-04 13:00:24.414 [error] <0.635.0> Supervisor {<0.635.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.636.0>, {amqp_params_network,<<"guest">>,<<"guest">>,<<"/">>,"localhost",5672,0,0,10,50000,none,[fun amqp_a..>,...],...}) at <0.637.0> exit with reason {socket_error,timeout} in context child_terminated
+2019-11-04 13:00:24.414 [error] <0.635.0> Supervisor {<0.635.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.636.0>, {amqp_params_network,<<"guest">>,<<"guest">>,<<"/">>,"localhost",5672,0,0,10,50000,none,[fun amqp_a..>,...],...}) at <0.637.0> exit with reason reached_max_restart_intensity in context shutdown
+2019-11-04 13:00:24.414 [error] <0.634.0> gen_server <0.634.0> terminated with reason: {socket_error,timeout}
+2019-11-04 13:00:24.414 [error] <0.634.0> CRASH REPORT Process <0.634.0> with 0 neighbours exited with reason: {socket_error,timeout} in gen_server:handle_common_reply/8 line 751
+2019-11-04 13:00:24.414 [error] <0.633.0> Supervisor {<0.633.0>,amqp_connection_type_sup} had child main_reader started with amqp_main_reader:start_link(#Port<0.13>, <0.634.0>, <0.639.0>, {method,rabbit_framing_amqp_0_9_1}, <<"client 127.0.0.1:52175 -> 127.0.0.1:5672">>) at <0.641.0> exit with reason {socket_error,timeout} in context child_terminated
+2019-11-04 13:00:24.414 [error] <0.633.0> Supervisor {<0.633.0>,amqp_connection_type_sup} had child main_reader started with amqp_main_reader:start_link(#Port<0.13>, <0.634.0>, <0.639.0>, {method,rabbit_framing_amqp_0_9_1}, <<"client 127.0.0.1:52175 -> 127.0.0.1:5672">>) at <0.641.0> exit with reason reached_max_restart_intensity in context shutdown
+2019-11-04 13:00:24.415 [error] <0.632.0> Supervisor {<0.632.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.633.0>, {amqp_params_network,<<"guest">>,<<"guest">>,<<"/">>,"localhost",5672,0,0,10,50000,none,[fun amqp_a..>,...],...}) at <0.634.0> exit with reason {socket_error,timeout} in context child_terminated
+2019-11-04 13:00:24.415 [error] <0.632.0> Supervisor {<0.632.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.633.0>, {amqp_params_network,<<"guest">>,<<"guest">>,<<"/">>,"localhost",5672,0,0,10,50000,none,[fun amqp_a..>,...],...}) at <0.634.0> exit with reason reached_max_restart_intensity in context shutdown
+2019-11-04 13:38:55.251 [error] <0.672.0> gen_server <0.672.0> terminated with reason: {socket_error,timeout}
+2019-11-04 13:38:55.680 [error] <0.676.0> gen_server <0.676.0> terminated with reason: {socket_error,timeout}
+2019-11-04 13:39:03.988 [warning] <0.236.0> lager_error_logger_h dropped 14 messages in the last second that exceeded the limit of 50 messages/sec
+2019-11-13 13:36:57.080 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-11-13 13:36:57.088 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-11-13 13:36:57.090 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-11-13 13:36:57.096 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-11-13 13:36:57.097 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-11-13 13:36:57.097 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-11-13 13:36:57.106 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-11-13 13:36:57.109 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-11-13 13:36:58.000 [warning] <0.227.0> lager_error_logger_h dropped 65 messages in the last second that exceeded the limit of 50 messages/sec
+2019-11-21 18:12:15.583 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-11-21 18:12:15.591 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-11-21 18:12:15.594 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-11-21 18:12:15.611 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-11-21 18:12:15.614 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-11-21 18:12:15.614 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-11-21 18:12:15.624 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-11-21 18:12:15.626 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-11-21 18:12:16.001 [warning] <0.430.0> lager_error_logger_h dropped 65 messages in the last second that exceeded the limit of 50 messages/sec
+2019-11-21 20:52:03.711 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-11-21 20:52:03.720 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-11-21 20:52:03.722 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-11-21 20:52:03.730 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-11-21 20:52:03.732 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-11-21 20:52:03.732 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-11-21 20:52:03.742 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-11-21 20:52:03.747 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-11-21 20:52:03.999 [warning] <0.244.0> lager_error_logger_h dropped 65 messages in the last second that exceeded the limit of 50 messages/sec

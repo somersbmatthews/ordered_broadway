@@ -9,11 +9,12 @@ defmodule OrderedBroadway.Application do
     children = [
       # Starts a worker by calling: OrderedBroadway.Worker.start_link(arg)
       # {OrderedBroadway.Worker, arg}
+      {Pipeline, []}
     ]
 
     # See https://hexdocs.pm/elixir/Supervisor.html
     # for other strategies and supported options
-    opts = [strategy: :one_for_one, name: OrderedBroadway.Supervisor]
-    Supervisor.start_link(children, opts)
+    # opts = [strategy: :one_for_one, name: OrderedBroadway.Supervisor]
+    Supervisor.start_link(children, strategy: :one_for_one)
   end
 end

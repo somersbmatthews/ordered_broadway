@@ -1,0 +1,424 @@
+2019-09-22 15:02:58.670 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-09-22 15:02:58.676 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-09-22 15:02:58.678 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-09-22 15:02:58.683 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-09-22 15:02:58.685 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-09-22 15:02:58.685 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-09-22 15:02:58.691 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-09-22 15:02:58.692 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-09-22 15:02:58.695 [info] <0.43.0> Application gen_stage started on node nonode@nohost
+2019-09-22 15:02:58.697 [info] <0.43.0> Application broadway started on node nonode@nohost
+2019-09-22 15:02:58.701 [info] <0.43.0> Application unicode_util_compat started on node nonode@nohost
+2019-09-22 15:02:58.701 [info] <0.43.0> Application idna started on node nonode@nohost
+2019-09-22 15:02:58.702 [info] <0.43.0> Application mimerl started on node nonode@nohost
+2019-09-22 15:02:58.704 [info] <0.43.0> Application certifi started on node nonode@nohost
+2019-09-22 15:02:58.705 [info] <0.43.0> Application ssl_verify_fun started on node nonode@nohost
+2019-09-22 15:02:58.706 [info] <0.43.0> Application metrics started on node nonode@nohost
+2019-09-22 15:02:58.715 [info] <0.43.0> Application hackney started on node nonode@nohost
+2019-09-22 15:02:58.716 [info] <0.43.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-09-22 15:02:58.727 [error] <0.271.0> CRASH REPORT Process <0.271.0> with 0 neighbours exited with reason: #{'__exception__' => true,'__struct__' => 'Elixir.ArgumentError',message => <<"The module Pipeline was given as a child to a supervisor but it does not exist.">>} in 'Elixir.Supervisor':init_child/1 line 629 in application_master:init/4 line 138
+2019-09-22 19:12:54.662 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-09-22 19:12:54.668 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-09-22 19:12:54.670 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-09-22 19:12:54.675 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-09-22 19:12:54.676 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-09-22 19:12:54.676 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-09-22 19:12:54.681 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-09-22 19:12:54.683 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-09-22 19:12:54.686 [info] <0.43.0> Application gen_stage started on node nonode@nohost
+2019-09-22 19:12:54.688 [info] <0.43.0> Application broadway started on node nonode@nohost
+2019-09-22 19:12:54.691 [info] <0.43.0> Application unicode_util_compat started on node nonode@nohost
+2019-09-22 19:12:54.691 [info] <0.43.0> Application idna started on node nonode@nohost
+2019-09-22 19:12:54.693 [info] <0.43.0> Application mimerl started on node nonode@nohost
+2019-09-22 19:12:54.694 [info] <0.43.0> Application certifi started on node nonode@nohost
+2019-09-22 19:12:54.695 [info] <0.43.0> Application ssl_verify_fun started on node nonode@nohost
+2019-09-22 19:12:54.697 [info] <0.43.0> Application metrics started on node nonode@nohost
+2019-09-22 19:12:54.705 [info] <0.43.0> Application hackney started on node nonode@nohost
+2019-09-22 19:12:54.705 [info] <0.43.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-09-22 19:12:55.001 [warning] <0.227.0> lager_error_logger_h dropped 66 messages in the last second that exceeded the limit of 50 messages/sec
+2019-09-22 19:15:15.907 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-09-22 19:15:15.912 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-09-22 19:15:15.915 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-09-22 19:15:15.919 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-09-22 19:15:15.920 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-09-22 19:15:15.920 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-09-22 19:15:15.925 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-09-22 19:15:15.927 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-09-22 19:15:15.930 [info] <0.43.0> Application gen_stage started on node nonode@nohost
+2019-09-22 19:15:15.932 [info] <0.43.0> Application broadway started on node nonode@nohost
+2019-09-22 19:15:15.936 [info] <0.43.0> Application unicode_util_compat started on node nonode@nohost
+2019-09-22 19:15:15.936 [info] <0.43.0> Application idna started on node nonode@nohost
+2019-09-22 19:15:15.937 [info] <0.43.0> Application mimerl started on node nonode@nohost
+2019-09-22 19:15:15.938 [info] <0.43.0> Application certifi started on node nonode@nohost
+2019-09-22 19:15:15.940 [info] <0.43.0> Application ssl_verify_fun started on node nonode@nohost
+2019-09-22 19:15:15.941 [info] <0.43.0> Application metrics started on node nonode@nohost
+2019-09-22 19:15:15.949 [info] <0.43.0> Application hackney started on node nonode@nohost
+2019-09-22 19:15:15.950 [info] <0.43.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-09-22 19:15:16.000 [warning] <0.227.0> lager_error_logger_h dropped 43 messages in the last second that exceeded the limit of 50 messages/sec
+2019-09-22 19:15:16.062 [error] <0.279.0> gen_server 'Elixir.Pipeline.Broadway.Producer_default_1' terminated with reason: {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'ampq.queue' in vhost '/'">>}},{gen_server,call,[<0.368.0>,{subscribe,{'basic.consume',0,<<"ampq.queue">>,<<>>,false,false,false,false,[]},<0.373.0>},60000]}} in gen_server:call/3 line 223
+2019-09-22 19:15:16.062 [error] <0.280.0> gen_server 'Elixir.Pipeline.Broadway.Producer_default_2' terminated with reason: {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'ampq.queue' in vhost '/'">>}},{gen_server,call,[<0.369.0>,{subscribe,{'basic.consume',0,<<"ampq.queue">>,<<>>,false,false,false,false,[]},<0.372.0>},60000]}} in gen_server:call/3 line 223
+2019-09-22 19:15:16.069 [error] <0.279.0> CRASH REPORT Process 'Elixir.Pipeline.Broadway.Producer_default_1' with 0 neighbours exited with reason: {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'ampq.queue' in vhost '/'">>}},{gen_server,call,[<0.368.0>,{subscribe,{'basic.consume',0,<<"ampq.queue">>,<<>>,false,false,false,false,[]},<0.373.0>},60000]}} in gen_server:call/3 line 223
+2019-09-22 19:15:16.069 [error] <0.280.0> CRASH REPORT Process 'Elixir.Pipeline.Broadway.Producer_default_2' with 0 neighbours exited with reason: {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'ampq.queue' in vhost '/'">>}},{gen_server,call,[<0.369.0>,{subscribe,{'basic.consume',0,<<"ampq.queue">>,<<>>,false,false,false,false,[]},<0.372.0>},60000]}} in gen_server:call/3 line 223
+2019-09-22 19:15:16.070 [error] <0.278.0> Supervisor 'Elixir.Pipeline.Broadway.ProducerSupervisor' had child 'Elixir.Pipeline.Broadway.Producer_default_1' started with 'Elixir.Broadway.Producer':start_link([{module,{'Elixir.BroadwayRabbitMQ.Producer',[{queue,<<"ampq.queue">>},{connection,[{username,...},...]}]}},...], [{name,'Elixir.Pipeline.Broadway.Producer_default_1'}]) at <0.279.0> exit with reason {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'ampq.queue' in vhost '/'">>}},{gen_server,call,[<0.368.0>,{subscribe,{'basic.consume',0,<<"ampq.queue">>,<<>>,false,false,false,false,[]},<0.373.0>},60000]}} in context child_terminated
+2019-09-22 19:15:16.070 [error] <0.278.0> Supervisor 'Elixir.Pipeline.Broadway.ProducerSupervisor' had child 'Elixir.Pipeline.Broadway.Producer_default_2' started with 'Elixir.Broadway.Producer':start_link([{module,{'Elixir.BroadwayRabbitMQ.Producer',[{queue,<<"ampq.queue">>},{connection,[{username,...},...]}]}},...], [{name,'Elixir.Pipeline.Broadway.Producer_default_2'}]) at <0.280.0> exit with reason {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'ampq.queue' in vhost '/'">>}},{gen_server,call,[<0.369.0>,{subscribe,{'basic.consume',0,<<"ampq.queue">>,<<>>,false,false,false,false,[]},<0.372.0>},60000]}} in context child_terminated
+2019-09-22 19:15:17.000 [warning] <0.227.0> lager_error_logger_h dropped 2365 messages in the last second that exceeded the limit of 50 messages/sec
+2019-09-22 19:16:17.458 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-09-22 19:16:17.464 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-09-22 19:16:17.467 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-09-22 19:16:17.471 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-09-22 19:16:17.472 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-09-22 19:16:17.472 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-09-22 19:16:17.477 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-09-22 19:16:17.479 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-09-22 19:16:17.483 [info] <0.43.0> Application gen_stage started on node nonode@nohost
+2019-09-22 19:16:17.485 [info] <0.43.0> Application broadway started on node nonode@nohost
+2019-09-22 19:16:17.488 [info] <0.43.0> Application unicode_util_compat started on node nonode@nohost
+2019-09-22 19:16:17.489 [info] <0.43.0> Application idna started on node nonode@nohost
+2019-09-22 19:16:17.490 [info] <0.43.0> Application mimerl started on node nonode@nohost
+2019-09-22 19:16:17.491 [info] <0.43.0> Application certifi started on node nonode@nohost
+2019-09-22 19:16:17.492 [info] <0.43.0> Application ssl_verify_fun started on node nonode@nohost
+2019-09-22 19:16:17.493 [info] <0.43.0> Application metrics started on node nonode@nohost
+2019-09-22 19:16:17.501 [info] <0.43.0> Application hackney started on node nonode@nohost
+2019-09-22 19:16:17.502 [info] <0.43.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-09-22 19:16:18.001 [warning] <0.227.0> lager_error_logger_h dropped 66 messages in the last second that exceeded the limit of 50 messages/sec
+2019-09-22 20:09:12.783 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-09-22 20:09:12.792 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-09-22 20:09:12.794 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-09-22 20:09:12.800 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-09-22 20:09:12.801 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-09-22 20:09:12.801 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-09-22 20:09:12.810 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-09-22 20:09:12.813 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-09-22 20:09:12.815 [info] <0.43.0> Application gen_stage started on node nonode@nohost
+2019-09-22 20:09:12.818 [info] <0.43.0> Application broadway started on node nonode@nohost
+2019-09-22 20:09:12.822 [info] <0.43.0> Application unicode_util_compat started on node nonode@nohost
+2019-09-22 20:09:12.822 [info] <0.43.0> Application idna started on node nonode@nohost
+2019-09-22 20:09:12.823 [info] <0.43.0> Application mimerl started on node nonode@nohost
+2019-09-22 20:09:12.824 [info] <0.43.0> Application certifi started on node nonode@nohost
+2019-09-22 20:09:12.826 [info] <0.43.0> Application ssl_verify_fun started on node nonode@nohost
+2019-09-22 20:09:12.827 [info] <0.43.0> Application metrics started on node nonode@nohost
+2019-09-22 20:09:12.839 [info] <0.43.0> Application hackney started on node nonode@nohost
+2019-09-22 20:09:12.839 [info] <0.43.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-09-22 20:09:13.000 [warning] <0.227.0> lager_error_logger_h dropped 66 messages in the last second that exceeded the limit of 50 messages/sec
+2019-09-22 20:09:13.002 [error] <0.280.0> gen_server 'Elixir.Pipeline.Broadway.Producer_default_2' terminated with reason: {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'ampq.queue' in vhost '/'">>}},{gen_server,call,[<0.369.0>,{subscribe,{'basic.consume',0,<<"ampq.queue">>,<<>>,false,false,false,false,[]},<0.373.0>},60000]}} in gen_server:call/3 line 223
+2019-09-22 20:09:13.002 [error] <0.279.0> gen_server 'Elixir.Pipeline.Broadway.Producer_default_1' terminated with reason: {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'ampq.queue' in vhost '/'">>}},{gen_server,call,[<0.368.0>,{subscribe,{'basic.consume',0,<<"ampq.queue">>,<<>>,false,false,false,false,[]},<0.372.0>},60000]}} in gen_server:call/3 line 223
+2019-09-22 20:09:13.017 [error] <0.280.0> CRASH REPORT Process 'Elixir.Pipeline.Broadway.Producer_default_2' with 0 neighbours exited with reason: {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'ampq.queue' in vhost '/'">>}},{gen_server,call,[<0.369.0>,{subscribe,{'basic.consume',0,<<"ampq.queue">>,<<>>,false,false,false,false,[]},<0.373.0>},60000]}} in gen_server:call/3 line 223
+2019-09-22 20:09:13.017 [error] <0.278.0> Supervisor 'Elixir.Pipeline.Broadway.ProducerSupervisor' had child 'Elixir.Pipeline.Broadway.Producer_default_2' started with 'Elixir.Broadway.Producer':start_link([{module,{'Elixir.BroadwayRabbitMQ.Producer',[{queue,<<"ampq.queue">>},{connection,[{username,...},...]}]}},...], [{name,'Elixir.Pipeline.Broadway.Producer_default_2'}]) at <0.280.0> exit with reason {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'ampq.queue' in vhost '/'">>}},{gen_server,call,[<0.369.0>,{subscribe,{'basic.consume',0,<<"ampq.queue">>,<<>>,false,false,false,false,[]},<0.373.0>},60000]}} in context child_terminated
+2019-09-22 20:09:13.018 [error] <0.279.0> CRASH REPORT Process 'Elixir.Pipeline.Broadway.Producer_default_1' with 0 neighbours exited with reason: {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'ampq.queue' in vhost '/'">>}},{gen_server,call,[<0.368.0>,{subscribe,{'basic.consume',0,<<"ampq.queue">>,<<>>,false,false,false,false,[]},<0.372.0>},60000]}} in gen_server:call/3 line 223
+2019-09-22 20:09:13.018 [error] <0.278.0> Supervisor 'Elixir.Pipeline.Broadway.ProducerSupervisor' had child 'Elixir.Pipeline.Broadway.Producer_default_1' started with 'Elixir.Broadway.Producer':start_link([{module,{'Elixir.BroadwayRabbitMQ.Producer',[{queue,<<"ampq.queue">>},{connection,[{username,...},...]}]}},...], [{name,'Elixir.Pipeline.Broadway.Producer_default_1'}]) at <0.279.0> exit with reason {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'ampq.queue' in vhost '/'">>}},{gen_server,call,[<0.368.0>,{subscribe,{'basic.consume',0,<<"ampq.queue">>,<<>>,false,false,false,false,[]},<0.372.0>},60000]}} in context child_terminated
+2019-09-22 20:09:13.026 [error] <0.374.0> gen_server 'Elixir.Pipeline.Broadway.Producer_default_2' terminated with reason: {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'ampq.queue' in vhost '/'">>}},{gen_server,call,[<0.398.0>,{subscribe,{'basic.consume',0,<<"ampq.queue">>,<<>>,false,false,false,false,[]},<0.402.0>},60000]}} in gen_server:call/3 line 223
+2019-09-22 20:09:13.026 [error] <0.375.0> gen_server 'Elixir.Pipeline.Broadway.Producer_default_1' terminated with reason: {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'ampq.queue' in vhost '/'">>}},{gen_server,call,[<0.400.0>,{subscribe,{'basic.consume',0,<<"ampq.queue">>,<<>>,false,false,false,false,[]},<0.403.0>},60000]}} in gen_server:call/3 line 223
+2019-09-22 20:09:13.027 [error] <0.374.0> CRASH REPORT Process 'Elixir.Pipeline.Broadway.Producer_default_2' with 0 neighbours exited with reason: {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'ampq.queue' in vhost '/'">>}},{gen_server,call,[<0.398.0>,{subscribe,{'basic.consume',0,<<"ampq.queue">>,<<>>,false,false,false,false,[]},<0.402.0>},60000]}} in gen_server:call/3 line 223
+2019-09-22 20:09:13.027 [error] <0.278.0> Supervisor 'Elixir.Pipeline.Broadway.ProducerSupervisor' had child 'Elixir.Pipeline.Broadway.Producer_default_2' started with 'Elixir.Broadway.Producer':start_link([{module,{'Elixir.BroadwayRabbitMQ.Producer',[{queue,<<"ampq.queue">>},{connection,[{username,...},...]}]}},...], [{name,'Elixir.Pipeline.Broadway.Producer_default_2'}]) at <0.374.0> exit with reason {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'ampq.queue' in vhost '/'">>}},{gen_server,call,[<0.398.0>,{subscribe,{'basic.consume',0,<<"ampq.queue">>,<<>>,false,false,false,false,[]},<0.402.0>},60000]}} in context child_terminated
+2019-09-22 20:09:13.027 [error] <0.375.0> CRASH REPORT Process 'Elixir.Pipeline.Broadway.Producer_default_1' with 0 neighbours exited with reason: {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'ampq.queue' in vhost '/'">>}},{gen_server,call,[<0.400.0>,{subscribe,{'basic.consume',0,<<"ampq.queue">>,<<>>,false,false,false,false,[]},<0.403.0>},60000]}} in gen_server:call/3 line 223
+2019-09-22 20:09:13.027 [error] <0.278.0> Supervisor 'Elixir.Pipeline.Broadway.ProducerSupervisor' had child 'Elixir.Pipeline.Broadway.Producer_default_1' started with 'Elixir.Broadway.Producer':start_link([{module,{'Elixir.BroadwayRabbitMQ.Producer',[{queue,<<"ampq.queue">>},{connection,[{username,...},...]}]}},...], [{name,'Elixir.Pipeline.Broadway.Producer_default_1'}]) at <0.375.0> exit with reason {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'ampq.queue' in vhost '/'">>}},{gen_server,call,[<0.400.0>,{subscribe,{'basic.consume',0,<<"ampq.queue">>,<<>>,false,false,false,false,[]},<0.403.0>},60000]}} in context child_terminated
+2019-09-22 20:09:14.000 [warning] <0.227.0> lager_error_logger_h dropped 2342 messages in the last second that exceeded the limit of 50 messages/sec
+2019-09-22 20:09:35.811 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-09-22 20:09:35.817 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-09-22 20:09:35.820 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-09-22 20:09:35.824 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-09-22 20:09:35.825 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-09-22 20:09:35.825 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-09-22 20:09:35.830 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-09-22 20:09:35.832 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-09-22 20:09:35.835 [info] <0.43.0> Application gen_stage started on node nonode@nohost
+2019-09-22 20:09:35.837 [info] <0.43.0> Application broadway started on node nonode@nohost
+2019-09-22 20:09:35.841 [info] <0.43.0> Application unicode_util_compat started on node nonode@nohost
+2019-09-22 20:09:35.841 [info] <0.43.0> Application idna started on node nonode@nohost
+2019-09-22 20:09:35.843 [info] <0.43.0> Application mimerl started on node nonode@nohost
+2019-09-22 20:09:35.844 [info] <0.43.0> Application certifi started on node nonode@nohost
+2019-09-22 20:09:35.845 [info] <0.43.0> Application ssl_verify_fun started on node nonode@nohost
+2019-09-22 20:09:35.846 [info] <0.43.0> Application metrics started on node nonode@nohost
+2019-09-22 20:09:35.855 [info] <0.43.0> Application hackney started on node nonode@nohost
+2019-09-22 20:09:35.856 [info] <0.43.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-09-22 20:09:36.000 [warning] <0.227.0> lager_error_logger_h dropped 66 messages in the last second that exceeded the limit of 50 messages/sec
+2019-09-22 20:11:42.050 [warning] <0.346.0> Connection (<0.346.0>) closing: received hard error {'connection.close',320,<<"CONNECTION_FORCED - broker forced connection closure with reason 'shutdown'">>,0,0} from server
+2019-09-22 20:11:42.050 [warning] <0.349.0> Connection (<0.349.0>) closing: received hard error {'connection.close',320,<<"CONNECTION_FORCED - broker forced connection closure with reason 'shutdown'">>,0,0} from server
+2019-09-22 20:11:42.050 [error] <0.365.0> Supervisor {<0.365.0>,amqp_channel_sup} had child channel started with amqp_channel:start_link(network, <0.346.0>, 1, <0.367.0>, {<<"client 127.0.0.1:49659 -> 127.0.0.1:5672">>,1}) at <0.368.0> exit with reason noproc in context shutdown_error
+2019-09-22 20:11:42.051 [error] <0.364.0> Supervisor {<0.364.0>,amqp_channel_sup} had child channel started with amqp_channel:start_link(network, <0.349.0>, 1, <0.366.0>, {<<"client 127.0.0.1:49658 -> 127.0.0.1:5672">>,1}) at <0.369.0> exit with reason noproc in context shutdown_error
+2019-09-22 20:11:52.367 [error] <0.280.0> gen_server 'Elixir.Pipeline.Broadway.Producer_default_2' terminated with reason: {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'ampq.queue' in vhost '/'">>}},{gen_server,call,[<0.404.0>,{subscribe,{'basic.consume',0,<<"ampq.queue">>,<<>>,false,false,false,false,[]},<0.406.0>},60000]}} in gen_server:call/3 line 223
+2019-09-22 20:11:52.377 [error] <0.280.0> CRASH REPORT Process 'Elixir.Pipeline.Broadway.Producer_default_2' with 0 neighbours exited with reason: {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'ampq.queue' in vhost '/'">>}},{gen_server,call,[<0.404.0>,{subscribe,{'basic.consume',0,<<"ampq.queue">>,<<>>,false,false,false,false,[]},<0.406.0>},60000]}} in gen_server:call/3 line 223
+2019-09-22 20:11:52.378 [error] <0.278.0> Supervisor 'Elixir.Pipeline.Broadway.ProducerSupervisor' had child 'Elixir.Pipeline.Broadway.Producer_default_2' started with 'Elixir.Broadway.Producer':start_link([{module,{'Elixir.BroadwayRabbitMQ.Producer',[{queue,<<"ampq.queue">>},{connection,[{username,...},...]}]}},...], [{name,'Elixir.Pipeline.Broadway.Producer_default_2'}]) at <0.280.0> exit with reason {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'ampq.queue' in vhost '/'">>}},{gen_server,call,[<0.404.0>,{subscribe,{'basic.consume',0,<<"ampq.queue">>,<<>>,false,false,false,false,[]},<0.406.0>},60000]}} in context child_terminated
+2019-09-22 20:11:52.385 [error] <0.407.0> gen_server 'Elixir.Pipeline.Broadway.Producer_default_2' terminated with reason: {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'ampq.queue' in vhost '/'">>}},{gen_server,call,[<0.419.0>,{subscribe,{'basic.consume',0,<<"ampq.queue">>,<<>>,false,false,false,false,[]},<0.421.0>},60000]}} in gen_server:call/3 line 223
+2019-09-22 20:11:52.386 [error] <0.407.0> CRASH REPORT Process 'Elixir.Pipeline.Broadway.Producer_default_2' with 0 neighbours exited with reason: {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'ampq.queue' in vhost '/'">>}},{gen_server,call,[<0.419.0>,{subscribe,{'basic.consume',0,<<"ampq.queue">>,<<>>,false,false,false,false,[]},<0.421.0>},60000]}} in gen_server:call/3 line 223
+2019-09-22 20:11:52.386 [error] <0.278.0> Supervisor 'Elixir.Pipeline.Broadway.ProducerSupervisor' had child 'Elixir.Pipeline.Broadway.Producer_default_2' started with 'Elixir.Broadway.Producer':start_link([{module,{'Elixir.BroadwayRabbitMQ.Producer',[{queue,<<"ampq.queue">>},{connection,[{username,...},...]}]}},...], [{name,'Elixir.Pipeline.Broadway.Producer_default_2'}]) at <0.407.0> exit with reason {{shutdown,{server_initiated_close,404,<<"NOT_FOUND - no queue 'ampq.queue' in vhost '/'">>}},{gen_server,call,[<0.419.0>,{subscribe,{'basic.consume',0,<<"ampq.queue">>,<<>>,false,false,false,false,[]},<0.421.0>},60000]}} in context child_terminated
+2019-09-22 20:11:53.000 [warning] <0.227.0> lager_error_logger_h dropped 2366 messages in the last second that exceeded the limit of 50 messages/sec
+2019-09-22 20:12:02.681 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-09-22 20:12:02.687 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-09-22 20:12:02.689 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-09-22 20:12:02.694 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-09-22 20:12:02.695 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-09-22 20:12:02.695 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-09-22 20:12:02.700 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-09-22 20:12:02.701 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-09-22 20:12:02.705 [info] <0.43.0> Application gen_stage started on node nonode@nohost
+2019-09-22 20:12:02.707 [info] <0.43.0> Application broadway started on node nonode@nohost
+2019-09-22 20:12:02.711 [info] <0.43.0> Application unicode_util_compat started on node nonode@nohost
+2019-09-22 20:12:02.711 [info] <0.43.0> Application idna started on node nonode@nohost
+2019-09-22 20:12:02.713 [info] <0.43.0> Application mimerl started on node nonode@nohost
+2019-09-22 20:12:02.714 [info] <0.43.0> Application certifi started on node nonode@nohost
+2019-09-22 20:12:02.715 [info] <0.43.0> Application ssl_verify_fun started on node nonode@nohost
+2019-09-22 20:12:02.716 [info] <0.43.0> Application metrics started on node nonode@nohost
+2019-09-22 20:12:02.724 [info] <0.43.0> Application hackney started on node nonode@nohost
+2019-09-22 20:12:02.725 [info] <0.43.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-09-22 20:12:03.000 [warning] <0.227.0> lager_error_logger_h dropped 66 messages in the last second that exceeded the limit of 50 messages/sec
+2019-09-22 20:22:13.802 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-09-22 20:22:13.810 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-09-22 20:22:13.812 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-09-22 20:22:13.819 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-09-22 20:22:13.821 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-09-22 20:22:13.821 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-09-22 20:22:13.828 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-09-22 20:22:13.832 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-09-22 20:22:13.835 [info] <0.43.0> Application gen_stage started on node nonode@nohost
+2019-09-22 20:22:13.838 [info] <0.43.0> Application broadway started on node nonode@nohost
+2019-09-22 20:22:13.842 [info] <0.43.0> Application unicode_util_compat started on node nonode@nohost
+2019-09-22 20:22:13.842 [info] <0.43.0> Application idna started on node nonode@nohost
+2019-09-22 20:22:13.844 [info] <0.43.0> Application mimerl started on node nonode@nohost
+2019-09-22 20:22:13.845 [info] <0.43.0> Application certifi started on node nonode@nohost
+2019-09-22 20:22:13.846 [info] <0.43.0> Application ssl_verify_fun started on node nonode@nohost
+2019-09-22 20:22:13.847 [info] <0.43.0> Application metrics started on node nonode@nohost
+2019-09-22 20:22:13.860 [info] <0.43.0> Application hackney started on node nonode@nohost
+2019-09-22 20:22:13.861 [info] <0.43.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-09-22 20:22:13.999 [warning] <0.236.0> lager_error_logger_h dropped 56 messages in the last second that exceeded the limit of 50 messages/sec
+2019-09-22 20:22:37.718 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-09-22 20:22:37.726 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-09-22 20:22:37.728 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-09-22 20:22:37.733 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-09-22 20:22:37.734 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-09-22 20:22:37.734 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-09-22 20:22:37.742 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-09-22 20:22:37.744 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-09-22 20:22:37.747 [info] <0.43.0> Application gen_stage started on node nonode@nohost
+2019-09-22 20:22:37.750 [info] <0.43.0> Application broadway started on node nonode@nohost
+2019-09-22 20:22:37.754 [info] <0.43.0> Application unicode_util_compat started on node nonode@nohost
+2019-09-22 20:22:37.754 [info] <0.43.0> Application idna started on node nonode@nohost
+2019-09-22 20:22:37.756 [info] <0.43.0> Application mimerl started on node nonode@nohost
+2019-09-22 20:22:37.757 [info] <0.43.0> Application certifi started on node nonode@nohost
+2019-09-22 20:22:37.758 [info] <0.43.0> Application ssl_verify_fun started on node nonode@nohost
+2019-09-22 20:22:37.759 [info] <0.43.0> Application metrics started on node nonode@nohost
+2019-09-22 20:22:37.768 [info] <0.43.0> Application hackney started on node nonode@nohost
+2019-09-22 20:22:37.768 [info] <0.43.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-09-22 20:22:38.000 [warning] <0.236.0> lager_error_logger_h dropped 66 messages in the last second that exceeded the limit of 50 messages/sec
+2019-09-22 20:26:43.707 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-09-22 20:26:43.715 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-09-22 20:26:43.718 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-09-22 20:26:43.723 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-09-22 20:26:43.724 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-09-22 20:26:43.724 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-09-22 20:26:43.732 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-09-22 20:26:43.735 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-09-22 20:26:43.738 [info] <0.43.0> Application gen_stage started on node nonode@nohost
+2019-09-22 20:26:43.740 [info] <0.43.0> Application broadway started on node nonode@nohost
+2019-09-22 20:26:43.744 [info] <0.43.0> Application unicode_util_compat started on node nonode@nohost
+2019-09-22 20:26:43.744 [info] <0.43.0> Application idna started on node nonode@nohost
+2019-09-22 20:26:43.745 [info] <0.43.0> Application mimerl started on node nonode@nohost
+2019-09-22 20:26:43.746 [info] <0.43.0> Application certifi started on node nonode@nohost
+2019-09-22 20:26:43.748 [info] <0.43.0> Application ssl_verify_fun started on node nonode@nohost
+2019-09-22 20:26:43.749 [info] <0.43.0> Application metrics started on node nonode@nohost
+2019-09-22 20:26:43.761 [info] <0.43.0> Application hackney started on node nonode@nohost
+2019-09-22 20:26:43.762 [info] <0.43.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-09-22 20:26:44.000 [warning] <0.227.0> lager_error_logger_h dropped 66 messages in the last second that exceeded the limit of 50 messages/sec
+2019-09-22 20:29:59.226 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-09-22 20:29:59.234 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-09-22 20:29:59.237 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-09-22 20:29:59.243 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-09-22 20:29:59.244 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-09-22 20:29:59.244 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-09-22 20:29:59.253 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-09-22 20:29:59.255 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-09-22 20:29:59.258 [info] <0.43.0> Application gen_stage started on node nonode@nohost
+2019-09-22 20:29:59.260 [info] <0.43.0> Application broadway started on node nonode@nohost
+2019-09-22 20:29:59.264 [info] <0.43.0> Application unicode_util_compat started on node nonode@nohost
+2019-09-22 20:29:59.264 [info] <0.43.0> Application idna started on node nonode@nohost
+2019-09-22 20:29:59.265 [info] <0.43.0> Application mimerl started on node nonode@nohost
+2019-09-22 20:29:59.266 [info] <0.43.0> Application certifi started on node nonode@nohost
+2019-09-22 20:29:59.267 [info] <0.43.0> Application ssl_verify_fun started on node nonode@nohost
+2019-09-22 20:29:59.269 [info] <0.43.0> Application metrics started on node nonode@nohost
+2019-09-22 20:29:59.279 [info] <0.43.0> Application hackney started on node nonode@nohost
+2019-09-22 20:29:59.279 [info] <0.43.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-09-22 20:30:00.000 [warning] <0.227.0> lager_error_logger_h dropped 66 messages in the last second that exceeded the limit of 50 messages/sec
+2019-09-22 21:53:08.263 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-09-22 21:53:08.271 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-09-22 21:53:08.274 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-09-22 21:53:08.280 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-09-22 21:53:08.281 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-09-22 21:53:08.281 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-09-22 21:53:08.288 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-09-22 21:53:08.291 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-09-22 21:53:08.293 [info] <0.43.0> Application gen_stage started on node nonode@nohost
+2019-09-22 21:53:08.296 [info] <0.43.0> Application broadway started on node nonode@nohost
+2019-09-22 21:53:08.299 [info] <0.43.0> Application unicode_util_compat started on node nonode@nohost
+2019-09-22 21:53:08.299 [info] <0.43.0> Application idna started on node nonode@nohost
+2019-09-22 21:53:08.301 [info] <0.43.0> Application mimerl started on node nonode@nohost
+2019-09-22 21:53:08.303 [info] <0.43.0> Application certifi started on node nonode@nohost
+2019-09-22 21:53:08.304 [info] <0.43.0> Application ssl_verify_fun started on node nonode@nohost
+2019-09-22 21:53:08.305 [info] <0.43.0> Application metrics started on node nonode@nohost
+2019-09-22 21:53:08.317 [info] <0.43.0> Application hackney started on node nonode@nohost
+2019-09-22 21:53:08.317 [info] <0.43.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-09-22 21:53:09.000 [warning] <0.227.0> lager_error_logger_h dropped 2457 messages in the last second that exceeded the limit of 50 messages/sec
+2019-09-22 21:53:54.292 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-09-22 21:53:54.298 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-09-22 21:53:54.301 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-09-22 21:53:54.304 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-09-22 21:53:54.305 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-09-22 21:53:54.306 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-09-22 21:53:54.311 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-09-22 21:53:54.312 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-09-22 21:53:54.315 [info] <0.43.0> Application gen_stage started on node nonode@nohost
+2019-09-22 21:53:54.318 [info] <0.43.0> Application broadway started on node nonode@nohost
+2019-09-22 21:53:54.321 [info] <0.43.0> Application unicode_util_compat started on node nonode@nohost
+2019-09-22 21:53:54.321 [info] <0.43.0> Application idna started on node nonode@nohost
+2019-09-22 21:53:54.323 [info] <0.43.0> Application mimerl started on node nonode@nohost
+2019-09-22 21:53:54.325 [info] <0.43.0> Application certifi started on node nonode@nohost
+2019-09-22 21:53:54.326 [info] <0.43.0> Application ssl_verify_fun started on node nonode@nohost
+2019-09-22 21:53:54.328 [info] <0.43.0> Application metrics started on node nonode@nohost
+2019-09-22 21:53:54.337 [info] <0.43.0> Application hackney started on node nonode@nohost
+2019-09-22 21:53:54.337 [info] <0.43.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-09-22 21:53:55.000 [warning] <0.227.0> lager_error_logger_h dropped 66 messages in the last second that exceeded the limit of 50 messages/sec
+2019-09-22 22:40:17.366 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-09-22 22:40:17.372 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-09-22 22:40:17.374 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-09-22 22:40:17.379 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-09-22 22:40:17.380 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-09-22 22:40:17.380 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-09-22 22:40:17.386 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-09-22 22:40:17.388 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-09-22 22:40:17.391 [info] <0.43.0> Application gen_stage started on node nonode@nohost
+2019-09-22 22:40:17.393 [info] <0.43.0> Application broadway started on node nonode@nohost
+2019-09-22 22:40:17.397 [info] <0.43.0> Application unicode_util_compat started on node nonode@nohost
+2019-09-22 22:40:17.397 [info] <0.43.0> Application idna started on node nonode@nohost
+2019-09-22 22:40:17.398 [info] <0.43.0> Application mimerl started on node nonode@nohost
+2019-09-22 22:40:17.399 [info] <0.43.0> Application certifi started on node nonode@nohost
+2019-09-22 22:40:17.400 [info] <0.43.0> Application ssl_verify_fun started on node nonode@nohost
+2019-09-22 22:40:17.402 [info] <0.43.0> Application metrics started on node nonode@nohost
+2019-09-22 22:40:17.410 [info] <0.43.0> Application hackney started on node nonode@nohost
+2019-09-22 22:40:17.411 [info] <0.43.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-09-22 22:40:17.999 [warning] <0.227.0> lager_error_logger_h dropped 66 messages in the last second that exceeded the limit of 50 messages/sec
+2019-09-22 23:07:15.006 [error] <0.358.0> gen_server <0.358.0> terminated with reason: {socket_error,timeout}
+2019-09-22 23:07:15.006 [error] <0.349.0> gen_server <0.349.0> terminated with reason: {socket_error,timeout}
+2019-09-22 23:07:15.023 [error] <0.359.0> gen_server <0.359.0> terminated with reason: {socket_error,timeout}
+2019-09-22 23:07:15.024 [error] <0.346.0> gen_server <0.346.0> terminated with reason: {socket_error,timeout}
+2019-09-22 23:07:15.187 [error] <0.349.0> CRASH REPORT Process <0.349.0> with 0 neighbours exited with reason: {socket_error,timeout} in gen_server:handle_common_reply/8 line 751
+2019-09-22 23:07:15.187 [error] <0.347.0> Supervisor {<0.347.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.348.0>, {amqp_params_network,<<"guest">>,<<"guest">>,<<"/">>,"localhost",5672,0,0,10,50000,none,[fun amqp_a..>,...],...}) at <0.349.0> exit with reason {socket_error,timeout} in context child_terminated
+2019-09-22 23:07:15.188 [error] <0.347.0> Supervisor {<0.347.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.348.0>, {amqp_params_network,<<"guest">>,<<"guest">>,<<"/">>,"localhost",5672,0,0,10,50000,none,[fun amqp_a..>,...],...}) at <0.349.0> exit with reason reached_max_restart_intensity in context shutdown
+2019-09-22 23:07:15.188 [error] <0.346.0> CRASH REPORT Process <0.346.0> with 0 neighbours exited with reason: {socket_error,timeout} in gen_server:handle_common_reply/8 line 751
+2019-09-22 23:07:15.188 [error] <0.334.0> Supervisor {<0.334.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.337.0>, {amqp_params_network,<<"guest">>,<<"guest">>,<<"/">>,"localhost",5672,0,0,10,50000,none,[fun amqp_a..>,...],...}) at <0.346.0> exit with reason {socket_error,timeout} in context child_terminated
+2019-09-22 23:07:15.188 [error] <0.334.0> Supervisor {<0.334.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.337.0>, {amqp_params_network,<<"guest">>,<<"guest">>,<<"/">>,"localhost",5672,0,0,10,50000,none,[fun amqp_a..>,...],...}) at <0.346.0> exit with reason reached_max_restart_intensity in context shutdown
+2019-11-03 20:11:47.822 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-11-03 20:11:47.829 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-11-03 20:11:47.832 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-11-03 20:11:47.840 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-11-03 20:11:47.841 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-11-03 20:11:47.841 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-11-03 20:11:47.850 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-11-03 20:11:47.852 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-11-03 20:11:47.855 [info] <0.43.0> Application gen_stage started on node nonode@nohost
+2019-11-03 20:11:47.858 [info] <0.43.0> Application broadway started on node nonode@nohost
+2019-11-03 20:11:47.862 [info] <0.43.0> Application unicode_util_compat started on node nonode@nohost
+2019-11-03 20:11:47.862 [info] <0.43.0> Application idna started on node nonode@nohost
+2019-11-03 20:11:47.864 [info] <0.43.0> Application mimerl started on node nonode@nohost
+2019-11-03 20:11:47.866 [info] <0.43.0> Application certifi started on node nonode@nohost
+2019-11-03 20:11:47.867 [info] <0.43.0> Application ssl_verify_fun started on node nonode@nohost
+2019-11-03 20:11:47.868 [info] <0.43.0> Application metrics started on node nonode@nohost
+2019-11-03 20:11:47.881 [info] <0.43.0> Application hackney started on node nonode@nohost
+2019-11-03 20:11:47.881 [info] <0.43.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-11-03 20:11:48.000 [warning] <0.265.0> lager_error_logger_h dropped 66 messages in the last second that exceeded the limit of 50 messages/sec
+2019-11-03 20:17:01.387 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-11-03 20:17:01.395 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-11-03 20:17:01.398 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-11-03 20:17:01.406 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-11-03 20:17:01.408 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-11-03 20:17:01.408 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-11-03 20:17:01.414 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-11-03 20:17:01.417 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-11-03 20:17:01.421 [info] <0.43.0> Application gen_stage started on node nonode@nohost
+2019-11-03 20:17:01.425 [info] <0.43.0> Application broadway started on node nonode@nohost
+2019-11-03 20:17:01.429 [info] <0.43.0> Application unicode_util_compat started on node nonode@nohost
+2019-11-03 20:17:01.429 [info] <0.43.0> Application idna started on node nonode@nohost
+2019-11-03 20:17:01.431 [info] <0.43.0> Application mimerl started on node nonode@nohost
+2019-11-03 20:17:01.432 [info] <0.43.0> Application certifi started on node nonode@nohost
+2019-11-03 20:17:01.434 [info] <0.43.0> Application ssl_verify_fun started on node nonode@nohost
+2019-11-03 20:17:01.436 [info] <0.43.0> Application metrics started on node nonode@nohost
+2019-11-03 20:17:01.445 [info] <0.43.0> Application hackney started on node nonode@nohost
+2019-11-03 20:17:01.446 [info] <0.43.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-11-03 20:17:02.000 [warning] <0.265.0> lager_error_logger_h dropped 66 messages in the last second that exceeded the limit of 50 messages/sec
+2019-11-03 20:19:33.135 [warning] <0.385.0> Connection (<0.385.0>) closing: received hard error {'connection.close',320,<<"CONNECTION_FORCED - broker forced connection closure with reason 'shutdown'">>,0,0} from server
+2019-11-03 20:19:33.136 [warning] <0.382.0> Connection (<0.382.0>) closing: received hard error {'connection.close',320,<<"CONNECTION_FORCED - broker forced connection closure with reason 'shutdown'">>,0,0} from server
+2019-11-03 20:21:00.001 [warning] <0.265.0> lager_error_logger_h dropped 3 messages in the last second that exceeded the limit of 50 messages/sec
+2019-11-03 20:25:03.186 [warning] <0.471.0> Connection (<0.471.0>) closing: received hard error {'connection.close',320,<<"CONNECTION_FORCED - broker forced connection closure with reason 'shutdown'">>,0,0} from server
+2019-11-03 20:25:03.186 [warning] <0.457.0> Connection (<0.457.0>) closing: received hard error {'connection.close',320,<<"CONNECTION_FORCED - broker forced connection closure with reason 'shutdown'">>,0,0} from server
+2019-11-03 20:32:17.054 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-11-03 20:32:17.062 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-11-03 20:32:17.064 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-11-03 20:32:17.070 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-11-03 20:32:17.071 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-11-03 20:32:17.071 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-11-03 20:32:17.079 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-11-03 20:32:17.082 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-11-03 20:32:17.084 [info] <0.43.0> Application gen_stage started on node nonode@nohost
+2019-11-03 20:32:17.087 [info] <0.43.0> Application broadway started on node nonode@nohost
+2019-11-03 20:32:17.092 [info] <0.43.0> Application unicode_util_compat started on node nonode@nohost
+2019-11-03 20:32:17.092 [info] <0.43.0> Application idna started on node nonode@nohost
+2019-11-03 20:32:17.094 [info] <0.43.0> Application mimerl started on node nonode@nohost
+2019-11-03 20:32:17.095 [info] <0.43.0> Application certifi started on node nonode@nohost
+2019-11-03 20:32:17.096 [info] <0.43.0> Application ssl_verify_fun started on node nonode@nohost
+2019-11-03 20:32:17.097 [info] <0.43.0> Application metrics started on node nonode@nohost
+2019-11-03 20:32:17.109 [info] <0.43.0> Application hackney started on node nonode@nohost
+2019-11-03 20:32:17.110 [info] <0.43.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-11-03 20:32:18.000 [warning] <0.227.0> lager_error_logger_h dropped 66 messages in the last second that exceeded the limit of 50 messages/sec
+2019-11-03 20:40:14.582 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-11-03 20:40:14.589 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-11-03 20:40:14.592 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-11-03 20:40:14.599 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-11-03 20:40:14.602 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-11-03 20:40:14.602 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-11-03 20:40:14.609 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-11-03 20:40:14.612 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-11-03 20:40:14.616 [info] <0.43.0> Application gen_stage started on node nonode@nohost
+2019-11-03 20:40:14.618 [info] <0.43.0> Application broadway started on node nonode@nohost
+2019-11-03 20:40:14.622 [info] <0.43.0> Application unicode_util_compat started on node nonode@nohost
+2019-11-03 20:40:14.623 [info] <0.43.0> Application idna started on node nonode@nohost
+2019-11-03 20:40:14.624 [info] <0.43.0> Application mimerl started on node nonode@nohost
+2019-11-03 20:40:14.625 [info] <0.43.0> Application certifi started on node nonode@nohost
+2019-11-03 20:40:14.628 [info] <0.43.0> Application ssl_verify_fun started on node nonode@nohost
+2019-11-03 20:40:14.630 [info] <0.43.0> Application metrics started on node nonode@nohost
+2019-11-03 20:40:14.641 [info] <0.43.0> Application hackney started on node nonode@nohost
+2019-11-03 20:40:14.643 [info] <0.43.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-11-03 20:40:15.000 [warning] <0.265.0> lager_error_logger_h dropped 66 messages in the last second that exceeded the limit of 50 messages/sec
+2019-11-03 20:42:25.894 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-11-03 20:42:25.900 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-11-03 20:42:25.903 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-11-03 20:42:25.907 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-11-03 20:42:25.909 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-11-03 20:42:25.909 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-11-03 20:42:25.915 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-11-03 20:42:25.917 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-11-03 20:42:26.000 [warning] <0.227.0> lager_error_logger_h dropped 36 messages in the last second that exceeded the limit of 50 messages/sec
+2019-11-03 20:44:22.207 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-11-03 20:44:22.217 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-11-03 20:44:22.220 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-11-03 20:44:22.227 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-11-03 20:44:22.228 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-11-03 20:44:22.228 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-11-03 20:44:22.236 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-11-03 20:44:22.238 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-11-03 20:44:23.001 [warning] <0.265.0> lager_error_logger_h dropped 54 messages in the last second that exceeded the limit of 50 messages/sec
+2019-11-03 20:45:24.756 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-11-03 20:45:24.764 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-11-03 20:45:24.767 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-11-03 20:45:24.773 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-11-03 20:45:24.776 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-11-03 20:45:24.776 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-11-03 20:45:24.783 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-11-03 20:45:24.786 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-11-03 20:45:25.000 [warning] <0.227.0> lager_error_logger_h dropped 54 messages in the last second that exceeded the limit of 50 messages/sec
+2019-11-03 20:48:01.074 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-11-03 20:48:01.080 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-11-03 20:48:01.082 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-11-03 20:48:01.088 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-11-03 20:48:01.089 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-11-03 20:48:01.089 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-11-03 20:48:01.095 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-11-03 20:48:01.098 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-11-03 20:48:02.000 [warning] <0.236.0> lager_error_logger_h dropped 54 messages in the last second that exceeded the limit of 50 messages/sec
